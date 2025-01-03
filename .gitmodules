@@ -1,0 +1,3 @@
+[submodule "middle"]
+	path = middle
+	url = https://github.com/jdwinfodesign/middle.git
