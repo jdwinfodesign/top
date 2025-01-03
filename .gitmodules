@@ -1,3 +1,6 @@
 [submodule "middle"]
 	path = middle
 	url = https://github.com/jdwinfodesign/middle.git
+[submodule "middle/bottom"]
+	path = middle/bottom
+	url = https://github.com/jdwinfodesign/bottom.git
